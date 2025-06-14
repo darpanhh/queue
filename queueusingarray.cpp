@@ -63,10 +63,5 @@ int main(){
     dequeue();
     display();
     peek();
-
-
-
-
-
     return 0;
 }
